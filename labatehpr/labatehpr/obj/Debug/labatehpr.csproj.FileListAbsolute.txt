@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\labatehpr\labatehpr\bin\Debug\labatehpr.exe.config
+C:\Users\User\source\repos\labatehpr\labatehpr\bin\Debug\labatehpr.exe
+C:\Users\User\source\repos\labatehpr\labatehpr\bin\Debug\labatehpr.pdb
+C:\Users\User\source\repos\labatehpr\labatehpr\obj\Debug\labatehpr.csprojAssemblyReference.cache
+C:\Users\User\source\repos\labatehpr\labatehpr\obj\Debug\labatehpr.FormAircraft.resources
+C:\Users\User\source\repos\labatehpr\labatehpr\obj\Debug\labatehpr.Properties.Resources.resources
+C:\Users\User\source\repos\labatehpr\labatehpr\obj\Debug\labatehpr.csproj.GenerateResource.cache
+C:\Users\User\source\repos\labatehpr\labatehpr\obj\Debug\labatehpr.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\labatehpr\labatehpr\obj\Debug\labatehpr.exe
+C:\Users\User\source\repos\labatehpr\labatehpr\obj\Debug\labatehpr.pdb
